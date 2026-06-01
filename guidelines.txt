@@ -1,0 +1,20 @@
+# Clinical Operational Guidelines for Appointment Management
+
+## Section 1: Standard Protocols (Low Risk)
+For patients identified as Low Risk for no-shows:
+- Standard scheduling is sufficient.
+- Send a standard automated SMS reminder 24 hours before the appointment.
+- No immediate human intervention is necessary.
+
+## Section 2: Targeted Protocols (Medium Risk)
+For patients identified as Medium Risk for no-shows:
+- Send targeted SMS reminders 48 hours and 24 hours before the appointment.
+- Provide a clear, easy-to-use link in the SMS allowing the patient to confirm or reschedule their appointment without calling the office.
+- Monitor response; if no confirmation is received by 24 hours prior, flag for front-desk awareness.
+
+## Section 3: High Intervention Protocols (High Risk)
+For patients identified as High Risk for no-shows:
+- Patients with high no-show risk should receive a personal phone call from the front desk staff 48 hours prior.
+- Offer flexible rescheduling options during the call if they express barriers to attendance.
+- If transportation is a known issue for the demographic/neighborhood, offer information on medical transport or telehealth alternatives.
+- The clinic is authorized to selectively double-book or overbook appointment slots adjacent to High Risk patients to maximize provider utilization.
